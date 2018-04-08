@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AutoChatRobot</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint">write what you want to say here</string>
+    <string name="welcome">Welcome to turing robot</string>
+    <string name="send">send</string>
+</resources>
